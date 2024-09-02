@@ -2,6 +2,7 @@ ToDoList Web API
 This project is a Web API developed for a ToDoList application. The project is built using .NET Web API, with JWT and Access Token implemented for authentication. Additionally, a MongoDB database is set up using Docker and integrated into the project. The frontend interface is developed using Angular.
 
 Features
+
 CRUD Operations: Create, Read, Update, and Delete (CRUD) operations are implemented for ToDo items.
 JWT Authentication: JWT and Access Token are used for user authentication.
 MongoDB Integration: The MongoDB database is set up via Docker and integrated with the API.
